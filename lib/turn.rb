@@ -29,3 +29,6 @@ end
 def move(board, index, tag = "X")
   board[index] = tag
 end
+
+def turn(board)
+end
