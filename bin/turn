@@ -1,4 +1,7 @@
 #!/usr/bin/env ruby
 require_relative '../lib/turn.rb'
 
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+game_board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
+display_board(game_board)
+
