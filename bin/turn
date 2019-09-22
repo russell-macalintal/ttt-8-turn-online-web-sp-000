@@ -4,4 +4,3 @@ require_relative '../lib/turn.rb'
 game_board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 display_board(game_board)
-
